@@ -227,7 +227,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-image: url('../img/back.png');
+  background-color:#F60;
   
 }
 
@@ -307,7 +307,7 @@ a:focus {
 }
 
 .span9 {
-  width: 700px;
+  width: 70%;
 }
 
 .span8 {
