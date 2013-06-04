@@ -3,45 +3,59 @@
 	
 	<url>
 		<loc>index.html</loc>
-		<lastmod>2013-05-30</lastmod>
+		<lastmod>2013-06-04</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>1</priority>
 	</url>
 	
 	<url>
-		<loc>aficiones.html</loc>
+		<loc>plantilla.html</loc>
 		<lastmod>2013-05-30</lastmod>
 		<changefreq>monthly</changefreq>
-		<priority>0.8</priority>
+		<priority>0.4</priority>
 	</url>
 
 
 	<url>
-		<loc>curriculum.html</loc>
+		<loc>historia.html</loc>
+		<lastmod>2013-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+
+	<url>
+		<loc>estadio.html</loc>
 		<lastmod>2013-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	
 	<url>
-		<loc>curriculum.html</loc>
+		<loc>vavel.html</loc>
 		<lastmod>2013-05-30</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.3</priority>
 	</url>
 	
 	<url>
-		<loc>curriculum.html</loc>
+		<loc>blogs.html</loc>
 		<lastmod>2013-05-30</lastmod>
 		<changefreq>monthly</changefreq>
-		<priority>0.3</priority>
+		<priority>0.2</priority>
 	</url>
 	
 	<url>
-		<loc>curriculum.html</loc>
+		<loc>formulario.html</loc>
 		<lastmod>2013-05-30</lastmod>
 		<changefreq>monthly</changefreq>
-		<priority>0.3</priority>
+		<priority>0.2</priority>
+	</url>
+
+	<url>
+		<loc>contacto.html</loc>
+		<lastmod>2013-05-30</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
 	</url>
 	
 	

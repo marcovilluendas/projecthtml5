@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?> 
+<rss version="0.91">
+
+<channel>
+<title>ASRoma en Español</title> 
+<link>http://asroma.es</link> 
+<description>
+La web nos proporciona información hístorica y actual sobre la ASROMA.
+La idea inicial del proyecto es empezar con una web estatica en cuanto a contenido, pero que en el futuro se vayan enlazando diariamente artículos en su portada.
+</description> 
+<language>es-ES</language>
+
+
+<item>
+<title>Plantilla Roma 2012/2013</title> 
+<link>asroma.es/plantilla.html</link> 
+<description>
+Información de la temporada 2012-2013, se esperan nuevos fichajes durante el verano de los que tendreis información en la Web... 
+</description> 
+</item>
+
+<item>
+<title>VAVEL.COM</title> 
+<link>asroma.es/vavel.html</link> 
+<description>
+A continuación dejare varios artículos que escribí en la pagina web deportiva, VAVEL.COM.
+
+Actualmente he dejado de escribir por un tiempo, aunque con la idea de un día poderlo retomar.
+También en esta sección aparecen todos mis artílos de Marco Villuendas
+</description> 
+</item>
+
+<item>
+<title>La Roma se hunde</title> 
+<link>asroma.es/articulo.html</link> 
+<description>
+La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+</description> 
+</item>
+
+<item>
+<title>Historia ASRoma</title> 
+<link>asroma.es/historia.html</link> 
+<description>
+La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+</description> 
+</item>
+
+<item>
+<title>Historia ASRoma</title> 
+<link>asroma.es/historia.html</link> 
+<description>
+La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+</description> 
+</item>
+
+<item>
+<title>Historia ASRoma</title> 
+<link>asroma.es/historia.html</link> 
+<description>
+La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+</description> 
+</item>
+
+<item>
+<title>Historia ASRoma</title> 
+<link>asroma.es/historia.html</link> 
+<description>
+La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+</description> 
+</item>
+
+<item>
+<title>Historia ASRoma</title> 
+<link>asroma.es/historia.html</link> 
+<description>
+La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+</description> 
+</item>
+
+</channel>
+</rss>
