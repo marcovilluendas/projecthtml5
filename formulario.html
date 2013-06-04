@@ -24,15 +24,18 @@
     </a>
      
     <!-- Be sure to leave the brand out there if you want it shown -->
-   <nav>
+    <nav>
+    
     <a class="brand" href="index.html">Inicio</a>
-    <a class="brand" href="curriculum.html">Curriculum</a>
-    <a class="brand" href="formulario.html">Formulario</a>
-    <a class="brand" href="vavel.html">VAVEL</a>
+    <a class="brand" href="historia.html">Historia</a>
+    <a class="brand" href="estadio.html">Estadio</a>
+    <a class="brand" href="plantilla.html">Plantilla</a>
+    <a class="brand" href="vavel.html">Articulos</a>
+    
+    
     <a class="brand" href="blogs.html">Blogs</a>
-    <a class="brand" href="aficiones.html">Aficiones</a>
-    <a class="brand" href="pueblo.html">MiPueblo</a>
     <a class="brand" href="contacto.html">Contacto</a>
+    <a href="formulario.html">Registrarse</a>
      </nav>
     <!-- Everything you want hidden at 940px or less, place within here -->
     <div class="nav-collapse collapse">
@@ -47,8 +50,8 @@
 <div class="container">
 	<div class="hero-unit">
 		
-  		<h1>MarcoVilluendas Web <img src="img/html5.png" style="float:right; height:200px; width:200px; margin-top:-50px;"></h1>
-  		<p>Proyecto con HTML 5</p>
+  		<h1>Web de la ASROMA<img src="img/url.jpg" style="float:right; height:200px; width:200px; margin-top:-50px; border-radiu20px;"></h1>
+  		<p>Toda la Roma 100% en español</p>
   
 </div>
 	<hr>
@@ -66,35 +69,35 @@
     
     <div class="span8">
     
-    <h3> Ejemplo de un formulario en HTML 5 </h3>
+    <h3> Formulario de Registro en la Web </h3>
     	<form action="." oninput="range_control_value.value = range_control.valueAsNumber">
 	<p>
 		Nombre: <input type="text" name="name_control" autofocus required />
 	<br />
+    	Apellidos: <input type="text" name="apellido_control" autofocus required />
+	<br />
 		Correo Electrónico: <input type="email" name="email_control" required />
+    <br />
+		Contraseña: <input type="password" name="password" />
 	<br />
-		URL: <input type="url" name="url_control" placeholder="Escripe la URL de tu página web personal" />
-	<br />
-		Fecha: <input type="date" name="date_control" />
-	<br />
-		Tiempo: <input type="time" name="time_control" />
-	<br />
-		Fecha y hora de nacimiento: <input type="datetime" name="datetime_control" />
-	<br />
-		Mes: <input type="month" name="month_control" />
-	<br />
-		Semana: <input type="week" name="week_control" />
-	<br />
-		Número (min -10, max 10): <input type="number" name="number_control" min="-10" max="10" value="0" />
-	<br />
-		Intervalo (min 0, max 10): <input type="range" name="range_control" min="0" max="10" value="0" /> <output for="range_control" name="range_control_value" >0</output>
+		Fecha de Nacimiento: <input type="date" name="date_control" />
 	<br />
 		Teléfono: <input type="tel" name="tel_control" />
 	<br />
-		Término de búsqueda: <input type="search" name="search_control" />
-	<br />
 		Color Favorito: <input type="color" name="color_control" />
-	<br />
+        
+     <label>Jugador favorito (apellido)</label>
+     
+<input list="jugador" name="list" />
+<datalist id="jugador">
+    <option label="Francesco Totti" value="Totti">
+    <option label="Daniele De Rossi" value="De Rossi">
+    <option label="Mattia Destro" value="Destro">
+    <option label="Pablo Osvaldo" value="Osvaldo">
+    <option label="Miralem Pjanic" value="Pjanic">
+    <option label="Marquinhos" value="Marcos">
+</datalist>
+	<br /><br />
 	<input type="submit" value="Submit!" />
 </p>
 </form>
