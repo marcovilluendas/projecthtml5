@@ -2,6 +2,9 @@
 <rss version="0.91">
 
 <channel>
+	
+	
+	
 <title>ASRoma en Español</title> 
 <link>http://asroma.es</link> 
 <description>
@@ -9,6 +12,7 @@ La web nos proporciona información hístorica y actual sobre la ASROMA.
 La idea inicial del proyecto es empezar con una web estatica en cuanto a contenido, pero que en el futuro se vayan enlazando diariamente artículos en su portada.
 </description> 
 <language>es-ES</language>
+
 
 
 <item>
@@ -39,18 +43,18 @@ La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos d
 </item>
 
 <item>
-<title>Historia ASRoma</title> 
-<link>asroma.es/historia.html</link> 
+<title>Estadio</title> 
+<link>asroma.es/estadio.html</link> 
 <description>
-La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+Stadio Olimpico de Roma. Información sobre el campo de la ASRoma y la SS Lazio.
 </description> 
 </item>
 
 <item>
-<title>Historia ASRoma</title> 
-<link>asroma.es/historia.html</link> 
+<title>Formulario</title> 
+<link>asroma.es/formulario.html</link> 
 <description>
-La AS Roma se fundó el 22 de agosto de 1927 mediante la fusión de tres equipos de la ciudad: Roman Football Club, Fortitudo Pro Roma y Alba-Audace... 
+Formulario de registro ASRoma.es
 </description> 
 </item>
 

@@ -227,7 +227,7 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color:#F60;
+  background-image:url("../img/475.jpg");
   
 }
 
@@ -293,6 +293,8 @@ a:focus {
   width: 90%;
   background-color: #FFFFFF;
   border-radius:20px;
+  
+  
 }
 
 .span12 {
@@ -332,6 +334,15 @@ a:focus {
   background-color:#FFFFFF;
   border-radius:15px;
   
+  
+}
+
+.spanplantilla {
+  width: 30%;
+  background-color:#FFFFFF;
+  border-radius:15px;
+  padding-left:30px;
+  font-size:18px;
   
 }
 
@@ -4377,10 +4388,16 @@ input[type="submit"].btn.btn-mini {
   *z-index: 2;
   margin-bottom: 20px;
   overflow: visible;
+  
 }
 
 .navbar-inner {
-  min-height: 40px;
+	
+
+  font-family:"Eras Bold ITC";
+
+  color:red;
+  min-height: 20px;
   padding-right: 20px;
   padding-left: 20px;
   background-color: #fafafa;
@@ -4610,6 +4627,7 @@ input[type="submit"].btn.btn-mini {
   left: 0;
   display: block;
   float: left;
+  font-size:14px;
   margin: 0 10px 0 0;
 }
 
@@ -6134,10 +6152,11 @@ a.badge:focus {
 .hero-unit {
   padding: 60px;
   margin-bottom: 30px;
-  font-size: 18px;
+  font-size: 22px;
+  font-family:"Eras Bold ITC";
   font-weight: 200;
   line-height: 30px;
-  color: inherit;
+  color: red;
   margin: 0 auto;
   -webkit-border-radius: 6px;
      -moz-border-radius: 6px;
